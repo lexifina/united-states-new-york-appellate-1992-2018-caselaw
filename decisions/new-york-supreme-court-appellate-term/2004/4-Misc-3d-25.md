@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "2004-05-04"
+citations: ["4 Misc. 3d 25", "780 N.Y.S.2d 465"]
+reporter: "misc3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Empire Insurance Company, Appellant, v Eagle Insurance Company, Respondent."]
+source_url: "https://static.case.law/misc3d/4/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1323850
+cites_cases: ["1 Misc 3d 41", "172 Misc 2d 503", "2003 NY Slip Op 50898", "237 AD2d 153", "259 AD2d 971", "67 NY2d 169", "89 NY2d 214"]
+---
+
+# Empire Insurance v. Eagle Insurance
+
+## Majority
+
+OPINION OF THE COURT
+Memorandum.
+Order modified by providing that the petition is granted insofar as it sought to vacate the arbitrator’s award and matter remanded for arbitration before a different arbitrator; as so modified, affirmed with $10 costs.
+Pursuant to the mandatory arbitration provisions of Insurance Law § 5105 et seq., petitioner Empire Insurance Company filed a demand for arbitration on June 25, 1998, seeking reimbursement of no-fault payments it made to its subrogor from October 1995 through November 1996. Arbitration Forums, Inc. denied the claim on the ground that the statute of limitations had expired. Petitioner commenced a special proceeding to vacate said award, and by order entered in April 1999, the court below granted the petition and remanded the matter for a new hearing. Following the hearing, Arbitration Forums, Inc. again denied the claim on the aforementioned statute of limitations ground. Petitioner then commenced a second special proceeding to vacate the arbitrator’s award, and by order entered in May 2000, the court below granted the petition and remanded the matter for a new hearing. After said hearing, Arbitration Forums, Inc. again denied the claim, by award dated July 9, 2002, on the aforementioned statute of limitations ground. Petitioner then commenced the instant third special proceeding to vacate the arbitrator’s award. By order entered in November 2002, the court denied the petition finding that it was not based on one of the limited grounds upon which such an award may be vacated pursuant to CPLR 7511 and that the arbitrator applied the correct statute of limitations (citing Nationwide Mut. Ins. Co. v Schwartz, 172 Misc 2d 503 [1997]). The court thereupon, sua sponte, vacated its May 2000 order.
+In Matter of Motor Veh. Acc. Indem. Corp. v Aetna Cas. & Sur. Co. (89 NY2d 214 [1996]), the Court of Appeals determined that stricter scrutiny is required, and the arbitrary and capricious standard is applicable, if arbitration is compulsory pursuant to a statutory mandate (id. at 223). To the extent that the Appellate Division, Fourth Department case, Matter of Allstate Ins. Co. (Clarendon Natl. Ins. Co.) (259 AD2d 971 [1999]), is inconsistent with the Court of Appeals holding in Matter of Motor Veh. Acc. Indem. Corp. v Aetna Cas. & Sur. Co., it is not controlling. Furthermore, the court’s reliance on Nationwide is misplaced inasmuch as the court therein specifically stated that its decision was distinguishable from Motor Veh. Acc. Indem. Corp. v Aetna Cas. & Sur. Co. which, like the case at bar, involved statutorily created obligations and rights, whereas Nationwide was in the nature of a common-law subrogation. Consequently, we find that the arbitrator’s award dismissing the claim as barred by the statute of limitations was not based on the evidence, and it was arbitrary and capricious for the arbitrator to dismiss the claim since petitioner timely made its demand for arbitration within three years of its first no-fault payment (see CPLR 214 [2]; Matter of Motor Veh. Acc. Indem. Corp. v Aetna Cas. & Sur. Co., 89 NY2d at 219-220, supra; Aetna Life & Cas. Co. v Nelson, 67 NY2d 169, 175 [1986]; Matter of Budget Rent-A-Car [State Ins. Fund], 237 AD2d 153 [1997]; Matter of Allcity Ins. Co. v GEICO-Government Empls. Ins. Co., 2003 NY Slip Op 50898[U]).
+Accordingly, the petition seeking to vacate the July 2002 arbitrator’s award is granted and the matter is remanded for arbitration before a different arbitrator.
+We note that a special proceeding should terminate in a judgment, not an order (see CPLR 411).
+
+## Concurrence (Golia, J.,)
+
+Golia, J.,
+concurs in the following memorandum: In this concurring opinion, I wish to address the conduct of the respondent, respondent’s counsel and Arbitration Forums, Inc. for persisting in their defiance of this court’s prior ruling concerning this identical issue which has been previously specifically addressed (see Allcity Ins. Co. v Eagle Ins. Co., 1 Misc 3d 41 [2003]).
+Counsel for respondent as well as respondent (and indeed Arbitration Forums, Inc.) were fully aware of the herein decisions of the Civil Court (both Ritholtz and Kerrigan, JJ.) when they argued before the arbitrator, for the third time, that the petition should be dismissed on statute of limitations grounds, after the above two Civil Court decisions found the direct opposite. (I do, however, note the lower court’s [Kerrigan, J.] decision erroneously reversed itself after the third petition.) Nonetheless, they further disregarded a decision of the Civil Court when they attempted to circumvent that court’s ruling by applying directly to the Supreme Court for an order confirming the finding of the arbitrator rather than appealing the order of the Civil Court if they believed it was incorrect.
+The willful and contumacious conduct, and the arrogance to the extreme of those mentioned above, warrant sanctions. Unfortunately, the appellant failed to preserve for review by the Appellate Term the application for sanctions on the grounds of “forum shopping.” If that issue had been preserved, I would recommend the imposition of such sanctions. That the respondent continues to raise the issue of the statute of limitations as a defense and that Arbitration Forums continues to make such decisions, previously found to be arbitrary and capricious, needs to be addressed. In addition, I would recommend in the strongest terms possible that the petitioner’s bar seek sanctions as against Arbitration Forums, Inc. and any counsel, staff or otherwise, that persists in consciously disregarding court rulings and continue to dismiss inter-company no-fault arbitrations on statute of limitations grounds based upon the demand for arbitration being made more than three years from the date of the accident even though it was less than three years from the date of the first no-fault payment.
+I do not countenance the Appellate Term’s decisions or the decisions of the Civil Court being willfully ignored by a private arbitration company or counsel who appear before such forums.
+Pesce, EJ., and Rios, J., concur; Golia, J., concurs in a separate memorandum.
