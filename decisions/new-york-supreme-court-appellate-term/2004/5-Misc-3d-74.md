@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "2004-11-12"
+citations: ["5 Misc. 3d 74", "787 N.Y.S.2d 598"]
+reporter: "misc3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J.H. Taylor Construction Corp., Appellant, v Charles Liguori, Respondent."]
+source_url: "https://static.case.law/misc3d/5/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1390685
+cites_cases: ["1 NY3d 117", "175 AD2d 33", "60 NY2d 492", "79 NY2d 789", "87 NY2d 73"]
+---
+
+# J.H. Taylor Construction Corp. v. Liguori
+
+## Majority (Per Curiam.)
+
+OPINION OF THE COURT
+Per Curiam.
+Final judgment entered May 5, 2003 reversed, with $30 costs, and fined judgment of possession granted in favor of landlord on the holdover petition.
+The authority of an intermediate appellate court to review a record is as broad as that of the trial court (Northern Westchester Professional Park Assoc. v Town of Bedford, 60 NY2d 492, 499 [1983]). Exercising that authority here, and considering the testimonial, documentary and photographic evidence presented at trial, we conclude that petitioner landlord met its burden to demonstrate that tenant engaged in a “recurring or continuing pattern” of objectionable conduct sufficient to constitute a nuisance (Domen Holding Co. v Aranovich, 1 NY3d 117, 125 [2003]).
+Even accepting the trial court’s conclusion that the proof adduced by landlord concerning the tenant’s alleged acts of vandalism and his threatening display of a knife outside of his apartment was “equivocal” or conjectural, the trial evidence supporting several other key allegations of violent and antisocial conduct underlying the holdover petition was overwhelming and uncontradicted. Thus, the evidence shows, at a minimum, that tenant was regularly seen in the building’s common areas “half-dressed” and inebriated; that tenant often banged on neighboring residents’ apartment doors “at any given hour,” conduct which several times resulted in the summoning of police; and that tenant maintained an extensive knife collection within his apartment and brandished and used a knife during a housing-related quarrel with the (now) former building superintendent on November 14, 2001. With respect to the factual underpinnings of the November 2001 altercation, the record establishes, and the trial court expressly found, that the tenant left his apartment on the morning in question and went downstairs to the building courtyard “to confront” the landlord’s contractors about noise created by renovation work and, further, that when the superintendent came upon the scene, tenant “took a knife from his belt and a fight ensued,” during which the superintendent “was cut on the thigh,” resulting in a laceration requiring treatment at a local hospital. Tenant’s violent behavior during this episode, appropriately described by the trial court as “disturbing,” led to defendant’s arrest on misdemeanor assault and related charges that were ultimately disposed of in Criminal Court by way of an adjournment in contemplation of dismissal.
+It is significant to recognize that the building residents who appeared as witnesses for the tenant, though testifying credibly that tenant’s presence in the building created no problems for them, did not directly controvert the landlord’s persuasive evidence on any of the serious nuisance allegations outlined above, including the evidence relating to the tenant’s use of a knife during the November 2001 incident. Nor was such evidence otherwise refuted by the tenant, whose failure to testify in his own behalf in defense of the holdover petition allows the court to draw “the strongest inference [against him] that the opposing evidence permits” (Matter of Nassau County Dept. of Social Servs. [Dante M.] v Denise J., 87 NY2d 73, 79 [1995]). To the extent that the testimony offered by tenant when called by landlord as a rebuttal witness in connection with the tenant’s (baseless) retaliatory eviction and discrimination defenses can be viewed, as the trial court styled it, as “a denial of claims regarding the alleged vandalizing of apartment doors and playing of loud music,” we need emphasize that nowhere in his rebuttal testimony did tenant deny or offer any exculpatory explanation for the other ongoing nuisance conditions firmly established by landlord.
+Thus, under any realistic interpretation, the evidence makes it painfully clear that the tenant’s “continued residency in the building places the comfort and health of others in the building at a constant risk.” (Domen Holding Co. v Aranovich, 1 NY3d at 125.) A documented case of nuisance having been established, the landlord is entitled to a possessory judgment (see Frank v Park Summit Realty Corp., 175 AD2d 33 [1991], mod on other grounds 79 NY2d 789 [1991]).
+McCooe, J.E, Davis and Schoenfeld, JJ., concur.
+. While the trial court appears to have discounted the landlord’s evidence concerning the nature and severity of the tenant’s “alleged drinking,” we note that several of the tenant’s own witnesses testified to having seen tenant in an intoxicated or “altered” condition in the building’s common areas and that tenant’s counsel acknowledge during colloquy that at the time of trial tenant was participating in an alcohol abuse program pursuant to court order.
+. In reaching this conclusion, we have considered neither the alleged misconduct attributed to tenant prior to the period covered in the underlying termination notice nor the stipulated fact of tenant’s postpetition arrest on assault and menacing charges.
