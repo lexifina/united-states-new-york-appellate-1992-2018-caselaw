@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "2003-12-23"
+citations: ["3 Misc. 3d 11", "776 N.Y.S.2d 692"]
+reporter: "misc3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York, Respondent, v Courtesy Mobil and Socony Mobil, Appellants."]
+source_url: "https://static.case.law/misc3d/3/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 82267
+cites_cases: ["191 Misc 2d 746", "24 AD2d 165", "247 App Div 591", "35 NY2d 672", "42 AD2d 616", "54 NY2d 465", "74 NY2d 761", "96 NY2d 91"]
+---
+
+# People v. Courtesy Mobil & Socony Mobil
+
+## Majority
+
+OPINION OF THE COURT
+Memorandum.
+Appeal by defendant Courtesy Mobil unanimously dismissed as no judgment of conviction was entered against Courtesy Mobil and thus it is not aggrieved.
+Judgment of conviction insofar as it is appealed from by So-cony Mobil unanimously reversed on the law and accusatory instrument dismissed.
+Defendants were charged with “non-permitted sale of beer” in violation of section 285-36 (O) (6) of the Town Code of Green-burgh, which forbids “[g]asoline service station convenience stores” (defendants’ designated land use) from maintaining an inventory of grocery items “constituting] more than 45% of the wholesale dollar value of the total displayed inventory.” The People’s testimony at trial was that defendants were charged based on the fact that they held a license issued by the State Liquor Authority to sell beer. Because the license required that defendants maintain a grocery inventory of at least 50%, defendants were, in the People’s view, ipso facto in violation of the Town of Greenburgh’s 45% limit. The record reflects testimony by the People’s witnesses that no other enforcement mechanism for the ordinance was contemplated, that no actual calculation of the percentage of defendants’ grocery inventory was made, and that defendants could possibly have been in actual compliance with the town ordinance by having a grocery inventory of 45% or less. Thus, the People failed to establish, by legally sufficient evidence and beyond a reasonable doubt, every element of the offense charged (see CPL 70.20, 470.15 [4] [b]).
+Moreover, Greenburgh Town Code § 285-36 (0) (6) is invalid. It is well settled that “the Alcoholic Beverage Control Law is exclusive and Statewide in its scope and that, thus, no local government may legislate in this field” (People v De Jesus, 54 NY2d 465, 470 [1981]; see also DJL Rest. Corp. v City of New York, 96 NY2d 91 [2001]). The zoning ordinance at issue was expressly tailored, on its face, to “directly affect the field preempted by the State law” (Matter of Lansdown Entertainment Corp. v New York City Dept. of Consumer Affairs, 74 NY2d 761, 763-764 [1989]; cf. DJL Rest. Corp., 96 NY2d at 96). While the court below cited article 9 of the Alcoholic Beverage Control Law as the basis for its finding that the ordinance was a valid exercise of local authority, that article only provides a mechanism for a political subdivision to determine whether to become entirely “dry.” It does not permit the town to impose its own regulations upon the otherwise permitted sale of alcohol.
+The fact that the ordinance is couched in terms of regulating grocery inventory value percentages of gasoline station convenience stores, rather than as a direct ban on alcohol sales, does not save it. The “direct consequences of a local ordinance . . . [may] not ‘render illegal what is specifically allowed by State law’ ” (Louhal Props. v Strada, 191 Misc 2d 746, 750 [Sup Ct, Nassau County 2002], quoting Matter of Lansdown Entertainment, 74 NY2d at 764). The impermissible alcohol regulatory motivation of the ordinance is evident from its facial reference to a requirement that the grocery percentage be less than that required to obtain a license to sell alcohol (see De Sena v Gulde, 24 AD2d 165, 170 [1965]). Furthermore, the subject matter of the zoning ordinance is not land use but details of the internal operation of an otherwise permitted commercial use. It is thus an invalid exercise of the town’s zoning authority (see Tad’s Franchises v Incorporated Vil. of Pelham Manor, 42 AD2d 616, 617 [1973], affd 35 NY2d 672 [1974] [“Once the village permits a restaurant. . . to be conducted in retail districts as a conforming use, it cannot turn around and regulate such incidental or extended activities as the sale of alcoholic beverages . . . which activities are solely within the exclusive jurisdiction of the State Liquor Authority”]; De Sena, 24 AD2d 165 [1965]; Louhal Props., 191 Misc 2d at 751 [zoning power must operate in relation to use of land and not for purposes extraneous to that relation]).
+Nor does the ordinance stand as a proper exercise of general police power. To justify regulatory interference with the conduct of an otherwise permitted private business, there must be some “real or substantial evil” that the regulation is designed to cure, and a reasonable relation between the “evil” and the proposed remedy (Louhal Props., 191 Misc 2d at 755; see also Cowan v City of Buffalo, 247 App Div 591 [1936]). The only “evil” indicated by the town as prompting passage of the regulation at issue was the very selling of alcohol that the town without power to regulate.
+Doyle, P.J., Lifson and Rudolph, JJ., concur.
