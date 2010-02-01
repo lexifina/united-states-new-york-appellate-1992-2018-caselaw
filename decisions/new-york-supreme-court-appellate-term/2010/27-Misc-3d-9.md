@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "2010-02-01"
+citations: ["27 Misc. 3d 9", "898 N.Y.S.2d 759"]
+reporter: "misc3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas J. Lucas, Doing Business as Star Tax Reduction Consultant, Appellant, v Angela Ferriolo, Respondent. Thomas J. Lucas, Doing Business as Star Tax Reduction Consultant, Appellant, v Noreen Yousdaf et al., Respondents. Thomas J. Lucas, Doing Business as Star Tax Reduction Consultant, Appellant, v Dhanwantie Ramnarine, Respondent. Thomas J. Lucas, Doing Business as Star Tax Reduction Consultant, Appellant, v Barbara McHeffey Atkinson, Respondent. Thomas J. Lucas, Doing Business as Star Tax Reduction Consultant, Appellant, v Douglas Stennent, Respondent. Thomas J. Lucas, Doing Business as Star Tax Reduction Consultant, Appellant, v Charles McClendon et al., Respondents. Thomas J. Lucas, Doing Business as Star Tax Reduction Consultant, Appellant, v Gus Xikis, Respondent."]
+source_url: "https://static.case.law/misc3d/27/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3765750
+cites_cases: ["20 Misc 3d 1118", "2008 NY Slip Op 51391", "269 AD2d 125", "269 AD2d 584"]
+---
+
+# Lucas v. Ferriolo
+
+## Majority (Memorandum.)
+
+OPINION OF THE COURT
+Memorandum.
+Ordered that, on the court’s own motion, the appeals are consolidated for the purpose of disposition; and it is further, ordered that the judgments are reversed without costs and the matters are remitted to the District Court for a determination de novo of plaintiffs seven actions.
+In these seven small claims actions, plaintiff seeks to recover for services rendered to each defendant in helping that defendant to obtain a school tax relief (STAR) exemption pursuant to RPTL 425. Defendants failed to appear in the respective actions, and the District Court held inquests in each case. At the inquests, plaintiff introduced the written contracts executed in each case, which contracts were virtually identical. Plaintiff also offered evidence that he had been successful in obtaining the STAR exemption for each defendant. After the inquests, the District Court dismissed plaintiffs actions on the ground that the contracts were not enforceable. In dismissing the actions, the District Court relied upon a section of the Nassau County Administrative Code (the Code) dealing with contracts used by tax assessment reduction services (Nassau County Administrative Code § 21-19.0).
+The Code defines a tax assessment reduction service as “any person who provides or offers to provide, for any compensation or consideration, whether direct or indirect, any service to assist the owner ... of any dwelling located within Nassau County in obtaining a reduction in the assessed valuation of such premises from the Nassau County Department of Assessment” (Nassau County Administrative Code § 21-19.1 [D]). The Code sets forth requirements for contracts used by such tax assessment reduction services, including that such contracts clearly state the fee to be charged and allow the owner to cancel the contract within three days (Nassau County Administrative Code § 21-19.2). In addition, the contracts must state that the owner is not required to use the service, and that the service is not affiliated with any governmental agency (id.).
+The District Court found that plaintiff qualified as a tax assessment reduction service pursuant to the Code. The District Court also implicitly found that the contracts in question met all of the Code requirements, except that set forth in section 21-19.2 (E) (7), which states that all contracts used by tax assessment reduction services must include:
+“(7) A provision stating: ‘Only: 1. a person named in the records of the Nassau County Clerk as a homeowner; or 2. that person’s authorized agent; or 3. a person who has contracted to buy a home; or 4. the estate of a deceased homeowner, is eligible under the law to receive a tax assessment reduction and a property tax refund. If you are not in any of these four categories, you will not be able to receive a property tax refund and you should not sign this agreement.’ ”
+As the contracts used by plaintiff did not contain that language, the District Court found that the contracts were unenforceable pursuant to section 21-19.4 of the Code. We reverse.
+The Code provisions in question apply only to tax assessment reduction services, which are defined as services that help a homeowner to obtain a reduction in the assessed valuation of the premises (Nassau County Administrative Code § 21-19.1 [D]). However, the STAR exemption does not purport to reduce the overall assessed value of a property, but instead provides that “[r]eal property which satisfies the requirements of this section shall be exempt from taxation for school purposes” (RPTL 425 [1]). Indeed, it appears from the evidence presented in these seven cases that the assessed value of each defendant’s property increased, despite the fact that each defendant had successfully obtained a STAR exemption. Thus, as plaintiff argues on appeal, the Code section in question does not apply to plaintiffs offered services (contra Lucas v Walters, 20 Misc 3d 1118[A], 2008 NY Slip Op 51391[U] [Nassau Dist Ct 2008]).
+In view of the foregoing, we find that the District Court’s dismissal of plaintiffs seven actions did not provide the parties with substantial justice according to the rules and principles of substantive law (UDCA 1807; see Ross v Friedman, 269 AD2d 584 [2000]; Williams v Roper, 269 AD2d 125, 126 [2000]). Accordingly, the judgments are reversed and the matters are remitted to the District Court for a determination de novo of plaintiffs seven actions.
+Nicolai, EJ., Molía and LaCava, JJ., concur.
